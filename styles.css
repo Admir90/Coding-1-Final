@@ -1,0 +1,28 @@
+.heading {
+    font-family: MV Boli;
+    font-size: xx-large;
+    text-align: center;
+    -webkit-text-stroke-color: midnightblue; 
+    -webkit-text-stroke-width: 5px;
+    margin-top: 55px;
+    background-color:lime;
+
+}
+
+li.nav-item {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, cursive;
+    font-size: 35px;
+    
+}
+
+a {
+    font-style: italic;
+}
+
+ul {
+    margin-top: 20%;
+    text-align: justify;
+    list-style-type: none;
+    font-size: xx-large;
+    
+}
